@@ -19,7 +19,7 @@
     "@emotion/styled": "^11.8.1",
     "@mui/lab": "^5.0.0-alpha.74",
     "@mui/material": "^5.5.2",
-    "gatsby": "^4.10.1",
+    "gatsby": "next",
     "gatsby-plugin-emotion": "^7.10.0",
     "react": "rc",
     "react-dom": "rc"
